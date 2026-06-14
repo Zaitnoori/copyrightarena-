@@ -244,3 +244,4 @@ Unless otherwise noted, this project is distributed under the Creative Commons Z
 [github-downloads-img]: https://img.shields.io/github/downloads/cisagov/ScubaGear/total?logo=github
 [psgallery-downloads-img]: https://img.shields.io/powershellgallery/dt/ScubaGear?logo=powershell
 [github-issues-img]: https://img.shields.io/github/issues/cisagov/ScubaGear
+
